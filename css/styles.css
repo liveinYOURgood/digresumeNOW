@@ -1,0 +1,1532 @@
+
+
+  /* mobile version below only */
+
+  body {
+
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .sillybillypic {
+    padding-top: 20px;
+    padding-bottom: 80px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+
+
+  
+  }
+
+  .group:before,
+.group:after {
+	content: "";
+	display: table;
+}
+
+.group:after {
+	clear: both;
+}
+
+.group {
+	zoom: 1;
+}
+
+
+  .BuildingPicsRight {
+    padding-top: 20px;
+    padding-bottom: 80px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+
+
+  
+  }
+
+  .BuildingPics {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+
+  
+  .img-bannerM {
+  
+    display: block;
+    height: 100%;
+    width: 100%;
+
+    margin-bottom: 50px;
+
+  }
+  
+  .img-banner {
+
+    display: none;
+    height: 100%;
+    width: 100%;
+  }
+
+  
+
+  
+  .setpslistthree{
+  
+    font-size: 35px;
+  }
+  
+  
+  .StepsHeader {
+  
+    color:red;
+  }
+  
+  
+  .billysilly2{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 65px;
+    padding-bottom: 75px;
+    height:45%;
+    width:45%;
+  
+  
+  
+  }
+
+  .turnpikeNorthPic{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:65%;
+    width:65%;
+
+  
+  }
+  
+  
+  .shadowBilly{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:90%;
+    width:90%;
+  
+  
+  }
+  
+  /* pictures */
+  
+  
+  .successville{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:90%;
+    width:90%;
+  
+  
+  
+  }
+  
+
+  
+  .bodytext{
+  
+    font-size: 54px;
+    line-height: 67px;
+    padding-left: 65px;
+    padding-right: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .bodytextYELLOW{
+  
+    font-size: 53px;
+    line-height: 68px;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+
+    background-color:lightgray;
+
+    margin-bottom: 70px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+
+  }
+
+
+
+  .bodytextTEST{
+  
+    font-size: 53px;
+    line-height: 68px;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+
+    background-color: aqua;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+
+  .bodytextTESTINDEX{
+  
+    font-size: 53px;
+    line-height: 68px;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+
+    background-color: WHITE;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+  /* black box on bottom of index page only */
+  
+  
+  #firstblock{
+  
+    background-color: black;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+
+  }
+
+  #secondblock{
+  
+    background-color: darkorchid;
+
+    margin-left: 30px;
+    margin-right: 30px;
+
+  }
+
+  #thirdblock{
+  
+    background-color: green;
+
+    margin-left: 30px;
+    margin-right: 30px;
+
+  }
+
+  #forthblock{
+  
+    background-color: darkturquoise;
+
+    margin-left: 30px;
+    margin-right: 30px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+
+  }
+
+  #fifthblock{
+  
+    background-color: orange;
+
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    
+
+
+  }
+
+  #sixthblock{
+  
+    background-color: brown;
+
+    margin-left: 30px;
+    margin-right: 30px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+
+  }
+
+  #seventhblock{
+  
+    background-color: blue;
+
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+
+  }
+
+  #eigthblock{
+  
+    background-color: darkgray;
+
+    margin-left: 30px;
+    margin-right: 30px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+
+  }
+
+  #ninthblock{
+  
+    background-color:teal;
+
+    margin-left: 30px;
+    margin-right: 30px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+
+  }
+
+
+
+  
+  .HeaderTrueLove{
+  
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+    padding-bottom: 45px;
+  }
+  
+  #heading{
+    font-family: 'Sacramento', cursive;
+  
+  
+  }
+  
+  .group:before,
+  .group:after {
+    content: "";
+    display: table;
+  }
+  
+  .group:after {
+    clear: both;
+  }
+  
+  .group {
+    zoom: 1;
+  }
+  
+  
+  /* for span area to add bold color to words */
+  
+  
+  .pro{
+    color:red;
+    font-weight: bolder;
+
+  
+  }
+  
+  .pro2{
+    color:green;
+    font-weight: bolder;
+
+  
+  
+  }
+  
+  .pro3{
+    color:blue;
+    font-weight: bolder;
+  
+  
+  }
+  
+  
+  
+  
+  .picture {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 60%;
+    width: 60%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+
+  .earth {
+    padding-top: 60px;
+    padding-bottom: 70px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+
+  .cartoon {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+  
+  .WalmartAisle16 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 60%;
+    width: 60%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+    margin-bottom: 70px;
+  
+  
+    display: block;
+  
+  }
+  
+  .WalmartGrandOpeningDay {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+    margin-bottom: 70px;
+  
+  
+    display: block;
+  
+  }
+  
+  .tcPicturesL {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 50%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    float: left;
+  
+    display: block;
+    border: white 8px solid;
+  
+  }
+  
+  .tcPicturesR {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+    width: 50%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    float: right;
+  
+    display: block;
+  
+    border: white 8px solid;
+  
+  
+  }
+  
+  .WalmartAward {
+
+    height: 100%;
+    width: 100%;
+  
+    display: block;
+  
+  }
+  
+  .storePic {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+  
+  .HiItsBillyLogo {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 50%;
+    width: 50%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+
+  
+  
+    display: block;
+  
+  }
+
+  .desktopMasthead {
+
+    display: none;
+
+  }
+
+  .earth {
+
+
+
+    height: 40%;
+    width: 40%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 60px;
+
+  
+  
+    display: block;
+  
+  }
+
+
+  .BigPicture {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    height: 60%;
+    width: 60%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+
+  .collegepic {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+  
+  .BillyNeckTie {
+    height: 45%;
+    width: 45%;
+    display: block;
+    margin:auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  
+  }
+  
+
+  
+  .apLogo {
+    height: 80%;
+    width: 80%;
+    text-align: center;
+    padding-top: 130px;
+  
+    padding-bottom: 50px;
+  
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  
+  }
+  
+  .picture3 {
+    height: 70%;
+    width: 70%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    display: block;
+  
+  }
+  
+  
+  
+  h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+    font-size: 3.5rem;
+    line-height: 1.5;
+    text-align: left;
+    padding-bottom: 20px;
+  }
+  
+  
+  
+  h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;';
+    font-size: 3rem;
+    text-align: left;
+  }
+  
+  .BuildingPicsLeft {
+    padding-top: 20px;
+    padding-bottom: 80px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+
+
+  
+  }
+
+  
+  
+  /* Navigation Bar */
+  
+  .btn2 {
+     background: #F63D3D;
+     background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+     background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+     background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+     background-image: -o-linear-gradient(top, #F63D3D, #811616);
+     background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     height: 10px;
+     line-height: 10px;
+     color: yellow;
+     font-family: Road Rage;
+     width: 249px;
+     font-size: 60px;
+     font-weight: 900;
+     padding: 28px;
+     -webkit-box-shadow: 1px 1px 6px 0 #000000;
+     -moz-box-shadow: 1px 1px 6px 0 #000000;
+     box-shadow: 1px 1px 6px 0 #000000;
+     text-shadow: 1px 1px 6px #000000;
+     border: solid #762C2C 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-bottom: 20px;
+     margin-top: 50px;
+  
+  }
+
+  .btn2:hover {
+
+    color: aqua;
+  }
+  
+  /* Yellow box steps for online shopping on index page */
+  
+  .stepsshopping{
+  
+    font-size: 55px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: yellow;
+    color:black;
+    margin-top: 70px;
+  }
+  
+  .stepsOne{
+  
+    color:black;
+    font-size: 50px;
+  
+  }
+  
+  
+  
+  
+  .yellowTitleBar{
+  
+    font-size: 55px;
+    color:red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: yellow;
+    text-align: center;
+  }
+  
+  .yellowTitleBarAP{
+  
+    font-size: 55px;
+    color:red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 40px;
+    margin-bottom: 90px;
+    background-color: yellow;
+    text-align: center;
+  }
+  
+  
+  /* Testimonials Section */
+  
+  .namelocation{
+  
+    font-size: 45px ;
+    width:100%;
+    text-align: left;
+  }
+  
+  
+  #testimonials {
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: black;
+  color: white;
+  
+  }
+  
+  .testimonial-text{
+  
+  font-family: "Ubuntu";
+  color: #FFB612;
+  text-align: center;
+  font-size: 45px ;
+  
+  
+  }
+  
+  
+  .carousel-item {
+    padding: 7% 15%;
+  
+  
+  }
+  
+  
+  
+  
+  /* my resume journey awaits */
+  
+  
+  .MainMessage {
+  
+    padding-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 140px;
+    line-height: 160px;
+    color: yellow;
+    font-family: 'Road Rage', cursive;
+    text-align: center;
+  
+  }
+
+  .MainMessagecollege {
+  
+    padding-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 105px;
+    line-height: 160px;
+    color: black;
+    font-family: 'Road Rage', cursive;
+    text-align: center;
+  
+  }
+
+  .MainMessagecollege1 {
+  
+    padding-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 140px;
+    line-height: 160px;
+    color: red;
+    font-family: 'Road Rage', cursive;
+    text-align: center;
+  
+  }
+  
+  .MainMessageSub {
+  
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family: 'Road Rage', cursive;
+    text-align: center;
+    line-height: 110px;
+
+    margin-left: 25px;
+    margin-right: 25px;
+
+  
+  }
+  
+  
+  /* CTA or Call to Action Section */
+  
+  
+  
+  
+  /* BOTTOM CONTAINER AREA */
+  
+  
+  
+  a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  
+  
+  
+  
+  .btn3 {
+     background: #F63D3D;
+     background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+     background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+     background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+     background-image: -o-linear-gradient(top, #F63D3D, #811616);
+     background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     height: 15px;
+     line-height: 10px;
+     color: yellow;
+     font-family: Road Rage;
+     width: 75%;
+     font-size: 66px;
+     font-weight: 900;
+     padding: 28px;
+     -webkit-box-shadow: 1px 1px 6px 0 #000000;
+     -moz-box-shadow: 1px 1px 6px 0 #000000;
+     box-shadow: 1px 1px 6px 0 #000000;
+     text-shadow: 1px 1px 6px #000000;
+     border: solid #762C2C 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-bottom: 20px;
+  
+  }
+  
+  
+  
+  
+  
+  /* Footer Section */
+  
+  .footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  color:white;
+  background-color: black;
+  
+  }
+  
+  .footerindex {
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    color:white;
+    background-color: black;
+    
+    }
+  
+    hr {
+  
+      border: dotted black 6px;
+      border-bottom: none;
+      width: 90%;
+      margin: 100px auto;
+    
+    }
+
+    .bodytextBlock{
+  
+      font-size: 53px;
+      line-height: 58px;
+      text-align: center;
+      padding-left: 65px;
+      padding-right: 65px;
+      padding-top: 65px;
+      padding-bottom: 65px;
+  
+      background-color:rgb(247, 247, 144);
+
+      margin-top: 30px;
+      margin-left: 30px;
+
+      margin-right: 30px;
+
+
+  
+      margin-bottom: 30px;
+
+      border: red solid 4px;
+    }
+
+
+
+
+
+
+  
+    
+  /* DESKTOP VIEW BELOW */
+
+
+    @media screen and (min-width:1000px) {
+
+
+      .group:before,
+.group:after {
+	content: "";
+	display: table;
+}
+
+.group:after {
+	clear: both;
+}
+
+.group {
+	zoom: 1;
+}
+
+      .img-bannerM {
+  
+        display: none;
+        height: 100%;
+        width: 100%;
+    
+      }
+      
+      .img-banner {
+    
+        display: block;
+        height: 100%;
+        width: 100%;
+      }
+
+
+      .MainMessagecollege1 {
+  
+        padding-top: 25px;
+        margin-left: 25px;
+        margin-right: 25px;
+        font-size: 100px;
+        line-height: 140px;
+        color: red;
+        font-family: 'Road Rage', cursive;
+        text-align: center;
+      
+      }
+
+      .BuildingPics {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        height: 40%;
+        width: 40%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: auto;
+        margin-right: auto;
+      
+      
+        display: block;
+      
+      }
+
+      .MainMessagecollege {
+  
+        padding-top: 15px;
+        margin-left: 25px;
+        margin-right: 25px;
+        font-size: 95px;
+        line-height: 130px;
+        color: black;
+        font-family: 'Road Rage', cursive;
+        text-align: center;
+      
+      }
+
+      .MainMessage {
+  
+        padding-top: 25px;
+        margin-left: 25px;
+        margin-right: 25px;
+        font-size: 100px;
+        line-height: 140px;
+        color: yellow;
+        font-family: 'Road Rage', cursive;
+        text-align: center;
+      
+      }
+
+      .MainMessageSub {
+  
+        padding-top: 5px;
+        font-size: 95px;
+        line-height: 130px;
+        color: white;
+        font-family: 'Road Rage', cursive;
+        text-align: center;
+        line-height: 110px;
+    
+        margin-left: 25px;
+        margin-right: 25px;
+    
+      
+      }
+
+      .bodytextTEST{
+  
+        font-size: 34px;
+        line-height: 48px;
+        padding-left: 65px;
+        padding-right: 65px;
+        padding-top: 65px;
+        padding-bottom: 65px;
+    
+        background-color: aqua;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+      }
+
+      .bodytextTESTINDEX{
+  
+        font-size: 30px;
+        line-height: 44px;
+        padding-left: 65px;
+        padding-right: 65px;
+        padding-top: 65px;
+        padding-bottom: 65px;
+    
+        background-color: WHITE;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+      }
+    
+
+      .cartoon {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        height: 75%;
+        width: 75%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: auto;
+        margin-right: auto;
+      
+      
+        display: block;
+      
+      }
+
+
+      .desktopMasthead {
+
+        height: 50%;
+        width: 50%;
+        display: block;
+
+        float: left;
+
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 50px;
+        margin-bottom: 50px;
+
+      }
+
+      .BigPicture {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        height: 20%;
+        width: 20%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: auto;
+        margin-right: auto;
+      
+      
+        display: block;
+      
+      }
+
+      .walmartaward {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        height: 40%;
+        width: 40%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: auto;
+        margin-right: auto;
+      
+      
+        display: block;
+      
+      }
+
+
+      .BuildingPicsLeft {
+        padding-top: 20px;
+        padding-bottom: 10px;
+        height: 50%;
+        width: 50%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: 20px;
+        margin-right: 20px;
+      
+      
+        display: block;
+
+        float: left;
+
+      
+      }
+
+      .BuildingPicsRight {
+        padding-top: 20px;
+        padding-bottom: 10px;
+        height: 50%;
+        width: 50%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: 20px;
+        margin-right: 20px;
+      
+      
+        display: block;
+
+        float: right;
+
+      
+      }
+
+      .sillybillypic {
+        padding-top: 20px;
+        padding-bottom: 100px;
+        height: 20%;
+        width: 20%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: 40px;
+        margin-right: 40px;
+      
+      
+        display: block;
+
+        float: left;
+
+      
+      }
+
+      .bodytextBlock{
+  
+    
+        background-color:rgb(247, 247, 144);
+
+
+        border: red solid 4px;
+
+        background-image: url(../images/mtn2.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: scroll;
+        background-size: cover;
+        color: yellow;
+        font-size: 700%;
+        line-height: 110px;
+
+        -webkit-text-fill-color: yellow;
+        -webkit-text-stroke: 1px red;
+
+        font-family:Verdana, Geneva, Tahoma, sans-serif      
+
+
+      }
+
+      .threestepsonlineshopping{
+  
+        font-size: 44px;
+        line-height: 48px;
+
+        text-align: center;
+        padding-left: 65px;
+        padding-right: 65px;
+        padding-top: 65px;
+        padding-bottom: 65px;
+    
+        background-color:rgb(247, 247, 144);
+
+        margin-top: 30px;
+        margin-left: 40px;
+        margin-right: 40px;
+    
+        margin-bottom: 30px;
+
+        border: red solid 4px;
+
+      }
+
+
+
+      .bodytextYELLOW{
+  
+        font-size: 54px;
+        line-height: 68px;
+        padding-left: 65px;
+        padding-right: 65px;
+        padding-top: 65px;
+        padding-bottom: 65px;
+    
+        background-color:rgb(228, 223, 223);
+
+        margin-left: 40px;
+        margin-right: 40px;
+
+        margin-bottom: 40px;
+        margin-top: 40px;
+
+        font-family: Arial, Helvetica, sans-serif;
+
+      }
+
+
+
+
+      .collegepic {
+        padding-top: 90px;
+        padding-bottom: 90px;
+        height: 50%;
+        width: 50%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: auto;
+        margin-right: auto;
+      
+      
+        display: block;
+      
+      }
+
+      .walmartaward {
+        height: 20%;
+        width: 20%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 20%;
+
+        margin-top: 30px;
+      
+        margin-left: 20px;
+        margin-right: auto;
+
+        float: left;
+      
+      
+        display: block;
+      
+      }
+
+
+
+      header {
+
+        height: 100%;
+        width: 100%;
+        background-color: yellow;
+      }
+
+      .logo {
+
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 45px;
+        text-decoration: underline;
+      }
+
+      .navbar{
+
+        display: flex;
+        align-items: ;
+      }
+
+      .bodytext{
+  
+        font-size: 30px;
+        line-height: 44px;
+        padding-left: 25px;
+        padding-right: 65px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+        text-align: left;
+      }
+
+
+      .HiItsBillyLogo {
+
+
+
+        height: 20%;
+        width: 20%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-bottom: 60px;
+    
+      
+      
+        display: block;
+      
+      }
+
+      .earth {
+
+
+
+        height: 40%;
+        width: 40%;
+        position:static;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-bottom: 60px;
+    
+      
+      
+        display: block;
+      
+      }
+
+      .shadowBilly{
+  
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 75px;
+        padding-bottom: 75px;
+        height:50%;
+        width:50%;
+
+        display: none;
+      
+      
+      
+      }
+
+
+
+      .billysilly2{
+  
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 75px;
+        padding-bottom: 75px;
+        height:25%;
+        width:25%;
+      
+      
+      
+      }
+
+      .turnpikeNorthPic{
+  
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 75px;
+        padding-bottom: 75px;
+        height:45%;
+        width:45%;
+      
+      
+      
+      }
+
+
+
+    }
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
